@@ -1,0 +1,16 @@
+.normal {
+    color: green;
+}
+
+.excess {
+    color: red;
+}
+
+th, td {
+    padding: 10px;
+    border: 2px solid black;
+}
+
+table {
+    border-collapse: collapse;
+}
